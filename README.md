@@ -4,7 +4,7 @@
 
 
 You will find the dataset used in this project on the Kaggle platform.
-Even then I give the dataset link.
+Still I am giving the dataset.
 
 # Dataset Link :
 https://www.kaggle.com/datasets/vikasukani/loan-eligible-dataset
